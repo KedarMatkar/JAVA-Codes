@@ -1,4 +1,4 @@
-# **Java **
+# **Java**
 Java is a powerful, object-oriented programming language widely used for building applications ranging from enterprise systems to mobile and web applications.
 
 ## **Key Features of Java**
